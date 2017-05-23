@@ -1,15 +1,10 @@
-# 公开一些作品的DEMO #
-
-
-
-
 ## PC端 ##
 - 
 
 ## 移动端 ##
 - 微信小程序：《狼人杀线下助手》
 
-![](http://ifblooms.com/demo/qrcode/mina.jpg)
+![](http://ifblooms.com/demo/qrcode/mina.png)
 
 - 51wan游戏平台官网
 
