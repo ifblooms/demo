@@ -1,5 +1,16 @@
+# 公开一些作品的DEMO #
+
+
+
+
 ## PC端 ##
-- 
+- 充值中心：[http://pay.51wan.com/](http://pay.51wan.com/)
+- 商城：[http://mall.51wan.com/](http://mall.51wan.com/)
+- 个人中心：[http://hi.51wan.com/personal.html](http://hi.51wan.com/personal.html)（临时账号：admin12138 密码：123456）
+- 小米米柚模拟器：[http://game.xiaomi.com/miyou/](http://game.xiaomi.com/miyou/)
+- discuz论坛：[http://nbbs.51wan.com/](http://nbbs.51wan.com/)
+
+产品众多，不一一列举了，可自行跳转。
 
 ## 移动端 ##
 - 微信小程序：《狼人杀线下助手》
@@ -15,13 +26,6 @@
 
 ![](http://ifblooms.com/demo/qrcode/live.png)
 
-- 图片上传
-
-![](http://ifblooms.com/demo/qrcode/upload.png)
-
-- 牙科门诊预约平台
-
-![](http://ifblooms.com/demo/qrcode/xinglinyu.png)
 
 - H5小游戏平台
 
