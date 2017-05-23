@@ -1,8 +1,3 @@
-# 公开一些作品的DEMO #
-
-
-
-
 ## PC端 ##
 - 充值中心：[http://pay.51wan.com/](http://pay.51wan.com/)
 - 商城：[http://mall.51wan.com/](http://mall.51wan.com/)
