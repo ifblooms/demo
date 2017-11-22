@@ -8,6 +8,11 @@
 产品众多，不一一列举了，可自行跳转。
 
 ## 移动端 ##
+
+- 闪卡H5百度paddlepaddle
+
+![](http://ifblooms.com/demo/qrcode/shanka.png)
+
 - 微信小程序：《狼人杀线下助手》
 
 ![](http://ifblooms.com/demo/qrcode/mina.png)
