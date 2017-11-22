@@ -9,9 +9,9 @@
 
 ## 移动端 ##
 
-- 闪卡H5百度paddlepaddle 
+- 闪卡H5百度paddlepaddle
 
-![](http://ifblooms.com/demo/qrcode/shanka.png)
+![](http://ifblooms.com/demo/qrcode/shan.png)
 
 - 微信小程序：《狼人杀线下助手》
 
