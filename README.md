@@ -1,4 +1,5 @@
 ## PC端 ##
+- H5页面生成工具：[https://winshows.12366.com/h5/](https://winshows.12366.com/h5/)
 - 充值中心：[http://pay.51wan.com/](http://pay.51wan.com/)
 - 商城：[http://mall.51wan.com/](http://mall.51wan.com/)
 - 个人中心：[http://hi.51wan.com/personal.html](http://hi.51wan.com/personal.html)（临时账号：admin12138 密码：123456）
